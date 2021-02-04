@@ -6,7 +6,7 @@ Beginner documentation is for, you guessed it, beginners! This is the documentat
 
 This content in particular is something that we want to feel welcoming, and non-threatening. That stage of learning where everything is new and a potential headache is a fragile time. It's far too easy to lose people who look at a tutorial and think, "Wow. I am *never* going to get that.
 
-When listing prerequisites, don't forget to liink to our other guides, to make sure that beginner readers have a strong foundation in what they need to know.
+When listing prerequisites, don't forget to link to our other guides, to make sure that beginner readers have a strong foundation in what they need to know.
 
 ----
 
