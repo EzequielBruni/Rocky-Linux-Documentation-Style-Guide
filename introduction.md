@@ -48,10 +48,9 @@ Also known as the serial comma. Love it, use it, and [read up on it](https://en.
 ## Images & screenshots
 A few tips to help you make the best images you can for tutorials.
 
-* All images will be hosted on [oh, we need to figure this out... I assume locally?]
 * [Recommended image sizes?]
+* The recommended format for images is JPG.
 * If there's a lot going on in your screenshot, consider adding a couple of helpful arrows pointing at the things that matter.
-* The recommended format for images is [JPG for bandwidth? WebP? PNGs are just so huge.]
 * Terminal commands are best put into a `code` element or block. If you must screenshot your terminal, make sure the text is big enough for people to easily see without zooming in.
 
 
