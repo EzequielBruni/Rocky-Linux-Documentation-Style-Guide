@@ -44,7 +44,6 @@ And the anaologies, similes, idioms, and more obscure cultural references. While
 * **The Oxford comma**  
 Also known as the serial comma. Love it, use it, and [read up on it](https://en.wikipedia.org/wiki/Serial_comma) if you want to.
 
-
 ## Images & screenshots
 A few tips to help you make the best images you can for tutorials.
 
